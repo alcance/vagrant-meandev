@@ -12,8 +12,8 @@ Vagrant box lista para desarollo aplicaciones bajo MongoDB + Express/Hapi + Angu
 ## Iniciar
 Recuerda instalar primero Vagrant y Virtualbox.
 
-* git clone [repo]
-* cd [folder]
+* git clone https://github.com/alcance/vagrant-meandev.git
+* cd vagrant-meanbox
 * vagrant up
 
 ## Software instalado por defecto
